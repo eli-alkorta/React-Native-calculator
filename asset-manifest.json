@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/React-Native-calculator/static/js/app.34ecba07.chunk.js",
+    "app.js.map": "/React-Native-calculator/static/js/app.34ecba07.chunk.js.map",
+    "runtime~app.js": "/React-Native-calculator/static/js/runtime~app.262e99ae.js",
+    "runtime~app.js.map": "/React-Native-calculator/static/js/runtime~app.262e99ae.js.map",
+    "static/js/2.2be73a1f.chunk.js": "/React-Native-calculator/static/js/2.2be73a1f.chunk.js",
+    "static/js/2.2be73a1f.chunk.js.map": "/React-Native-calculator/static/js/2.2be73a1f.chunk.js.map",
+    "favicon-16.png": "/React-Native-calculator/favicon-16.png",
+    "favicon-32.png": "/React-Native-calculator/favicon-32.png",
+    "favicon.ico": "/React-Native-calculator/favicon.ico",
+    "index.html": "/React-Native-calculator/index.html",
+    "manifest.json": "/React-Native-calculator/manifest.json",
+    "serve.json": "/React-Native-calculator/serve.json",
+    "static/js/2.2be73a1f.chunk.js.LICENSE.txt": "/React-Native-calculator/static/js/2.2be73a1f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.262e99ae.js",
+    "static/js/2.2be73a1f.chunk.js",
+    "static/js/app.34ecba07.chunk.js"
+  ]
+}

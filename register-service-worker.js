@@ -1,0 +1,1 @@
+"serviceWorker"in navigator&&window.addEventListener("load",(function(){navigator.serviceWorker.register("/React-Native-calculator/expo-service-worker.js",{scope:"/React-Native-calculator/"}).then((function(e){})).catch((function(e){console.info("Failed to register service-worker",e)}))}));
